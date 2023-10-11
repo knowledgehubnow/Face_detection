@@ -4,3 +4,4 @@ In this project we need to create a folder in system and import all file in crea
 Then download "shape_predictor_68_face_landmarks.dat" file from google and import it in created folder.
 For video detection:- Add any video in your created folder and change video name with your new video name then run the code
 For face detection:- using web cam run the facetracker.py file
+You need some library to install opencv_python, dilib etc.
